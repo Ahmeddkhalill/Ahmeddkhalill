@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ahmed Khalil 👋</h1>
 
 <p align="center">
-  <b>Backend Engineer · ASP.NET Core · Clean Architecture · Cairo, Egypt 🇪🇬</b>
+  <b>Backend Engineer · ASP.NET Core · Cairo, Egypt 🇪🇬</b>
 </p>
 
 <p align="center">
