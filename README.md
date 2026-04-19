@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ahmed Khalil 👋</h1>
 
 <p align="center">
-  <b>Backend Engineer · ASP.NET Core · Clean Architecture · Cairo, Egypt 🇪🇬</b>
+  <b>Backend Engineer · ASP.NET Core · Cairo, Egypt 🇪🇬</b>
 </p>
 
 <p align="center">
@@ -71,16 +71,10 @@ I build high-performance **RESTful APIs** and scalable server-side solutions wit
 
 ## 🚀 Featured Projects
 
-<!-- 
-  ⚠️ INSTRUCTIONS: Replace each REPO_NAME below with the actual repo name from your GitHub.
-  Example: if your repo URL is github.com/Ahmeddkhalill/SurveySystem → use SurveySystem
-  Find your repo names at: https://github.com/Ahmeddkhalill?tab=repositories
--->
-
 <table>
   <tr>
     <td width="50%">
-      <h3>📋 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_1">Survey Management System</a></h3>
+      <h3>📋 <a href="https://github.com/Ahmeddkhalill/SurveyManagement">Survey Management System</a></h3>
       <p>REST API with background jobs, automated mailing, hybrid caching & rate limiting.</p>
       <p>
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
@@ -89,7 +83,7 @@ I build high-performance **RESTful APIs** and scalable server-side solutions wit
       </p>
     </td>
     <td width="50%">
-      <h3>🏥 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_2">Vezeeta Medical Platform</a></h3>
+      <h3>🏥 <a href="https://github.com/Ahmeddkhalill/Vezeeta">Vezeeta Medical Platform</a></h3>
       <p>Healthcare system with CQRS, JWT/RBAC, localization & scalable scheduling.</p>
       <p>
         <img src="https://img.shields.io/badge/CQRS-6D28D9?style=flat-square&logoColor=white"/>
@@ -100,7 +94,7 @@ I build high-performance **RESTful APIs** and scalable server-side solutions wit
   </tr>
   <tr>
     <td width="50%">
-      <h3>👻 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_3">Haunted Escape Room ERP</a></h3>
+      <h3>👻 <a href="https://haunted-escape.com/">Haunted Escape Room ERP</a></h3>
       <p>ERP backend using Broker Pattern for multi-branch sales & modular data handling.</p>
       <p>
         <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
@@ -108,7 +102,7 @@ I build high-performance **RESTful APIs** and scalable server-side solutions wit
       </p>
     </td>
     <td width="50%">
-      <h3>💪 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_4">Fitness Tracker Library</a></h3>
+      <h3>💪 <a href="https://www.nuget.org/packages/FitnessTracker">Fitness Tracker Library</a></h3>
       <p>Published NuGet package for health & fitness calculations — <b>470+ downloads</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
@@ -118,7 +112,7 @@ I build high-performance **RESTful APIs** and scalable server-side solutions wit
   </tr>
   <tr>
     <td width="50%">
-      <h3>🎮 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_5">Game Management Portal</a></h3>
+      <h3>🎮 <a href="https://github.com/Ahmeddkhalill/GameZone">Game Management Portal</a></h3>
       <p>Full-stack ASP.NET MVC app with CRUD operations & responsive Bootstrap UI.</p>
       <p>
         <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
