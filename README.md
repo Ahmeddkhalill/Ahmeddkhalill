@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Ahmed Khalil 👋</h1>
 
 <p align="center">
-  <b>Backend Engineer · ASP.NET Core · Cairo, Egypt 🇪🇬</b>
+  <b>Backend Engineer · ASP.NET Core · Clean Architecture · Cairo, Egypt 🇪🇬</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-khalil-619176256/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmedmkhalil.work@gmail.com">
@@ -71,13 +71,63 @@ I build high-performance **RESTful APIs** and scalable server-side solutions wit
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Survey Management System** | REST API with background jobs, automated mailing, hybrid caching & rate limiting | ASP.NET Core, Hangfire, MailKit |
-| **Vezeeta Medical Platform** | Healthcare system with CQRS, JWT/RBAC, localization & scalable scheduling | ASP.NET Core, Identity, Serilog |
-| **Haunted Escape Room ERP** | ERP backend using Broker Pattern for multi-branch sales management | ASP.NET Core, SQLite |
-| **Fitness Tracker Library** | Published NuGet package — 470+ downloads | C#, NuGet |
-| **Game Management Portal** | Full-stack MVC app with CRUD & Bootstrap UI | ASP.NET MVC |
+<!-- 
+  ⚠️ INSTRUCTIONS: Replace each REPO_NAME below with the actual repo name from your GitHub.
+  Example: if your repo URL is github.com/Ahmeddkhalill/SurveySystem → use SurveySystem
+  Find your repo names at: https://github.com/Ahmeddkhalill?tab=repositories
+-->
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📋 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_1">Survey Management System</a></h3>
+      <p>REST API with background jobs, automated mailing, hybrid caching & rate limiting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hangfire-4A90D9?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MailKit-CC2929?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🏥 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_2">Vezeeta Medical Platform</a></h3>
+      <p>Healthcare system with CQRS, JWT/RBAC, localization & scalable scheduling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CQRS-6D28D9?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Serilog-CC2929?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>👻 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_3">Haunted Escape Room ERP</a></h3>
+      <p>ERP backend using Broker Pattern for multi-branch sales & modular data handling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💪 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_4">Fitness Tracker Library</a></h3>
+      <p>Published NuGet package for health & fitness calculations — <b>470+ downloads</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎮 <a href="https://github.com/Ahmeddkhalill/REPO_NAME_5">Game Management Portal</a></h3>
+      <p>Full-stack ASP.NET MVC app with CRUD operations & responsive Bootstrap UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ---
 
