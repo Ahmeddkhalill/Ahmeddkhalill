@@ -1,152 +1,82 @@
 <h1 align="center">Hi there, I'm Ahmed Khalil 👋</h1>
 
 <p align="center">
-  <b>Backend Engineer · ASP.NET Core · Cairo, Egypt 🇪🇬</b>
+  <b>Backend Software Engineer · C# · ASP.NET Core · Cairo, Egypt 🇪🇬</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-khalil-619176256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ahmedmkhalil.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Ahmeddkhalill" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.nuget.org/packages/FitnessTracker" target="_blank">
+    <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ahmeddkhalill&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Detail-oriented **Software Engineer** specializing in **backend development with ASP.NET Core**.  
-I build high-performance **RESTful APIs** and scalable server-side solutions with a focus on **clean code**, **SOLID principles**, and **efficient data access**.
+Backend Software Engineer specializing in **C# and ASP.NET Core**, with over a year of internship experience across remote and on-site teams.
+I build **RESTful APIs** and **CQRS-based backend services** with a focus on clean code, SOLID principles, secure authentication, and efficient data access.
 
-- 🎓 CS Student @ **Helwan University** (2022 – 2026) | GPA: 3.06 / 4.0
-- 🏢 Backend Intern @ **Egyptian Cabinet IDSC** & **ElitesXTech**
-- 📦 Published a **NuGet package** with **470+ downloads**
-- 🌍 Based in **Cairo, Egypt**
+- 🎓 B.Sc. Computer Science, Capital University (formerly Helwan University), 2022 – 2026 · GPA 3.12 / 4.0
+- 🏢 Backend Intern @ **Egyptian Cabinet IDSC**, **Inovext LTD (England, remote)**, and **ElitesXTech (remote)**
+- 📦 Published open-source NuGet package: **FitnessTracker (470+ downloads)**
+- 🌍 Based in Cairo, Egypt · Open to remote and on-site backend roles and freelance API work
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Languages:** C# · SQL · Python (basic) · JavaScript
 
-### Backend & Architecture
-![Web API](https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-003366?style=flat-square&logoColor=white)
-![CQRS](https://img.shields.io/badge/CQRS-6D28D9?style=flat-square&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-6D28D9?style=flat-square&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+**Backend & Architecture:** ASP.NET Core · Web API · EF Core · Dapper · LINQ · CQRS · MediatR · Clean Architecture · Result Pattern
 
-### Databases & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Serilog](https://img.shields.io/badge/Serilog-CC2929?style=flat-square&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-4A90D9?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**Security:** ASP.NET Core Identity · JWT · RBAC · Policy-Based Authorization
+
+**Databases:** SQL Server · PostgreSQL · SQLite · MySQL
+
+**Tools:** Git · Docker · Swagger · Postman · Hangfire · Serilog · Seq · FluentValidation · Mapster · MailKit
 
 ---
 
 ## 💼 Experience
 
-**Backend Intern · Egyptian Cabinet IDSC**
-> Developed backend services using **CQRS** architecture · Implemented structured logging via **Serilog** and **Seq**
+**Backend Developer Intern · Egyptian Cabinet IDSC** (Aug 2025 – Sep 2025, on-site)
+> CQRS with MediatR · ASP.NET Core Identity + JWT RBAC · localization · Serilog and Seq logging
 
-**Backend Intern · ElitesXTech**
-> Built high-performance **REST APIs** using **Dapper** · Designed reusable **C# class libraries** across multiple services
+**Backend Developer Intern · Inovext LTD, England** (Feb 2025 – Aug 2025, remote)
+> C#, ASP.NET Core, EF Core, LINQ, SQL Server · developer workflow and integration pipelines
+
+**Backend Developer Intern · ElitesXTech** (Aug 2023 – Apr 2024, remote)
+> REST APIs with Dapper and SQLite · modular data access layers · offline data sync
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📋 <a href="https://github.com/Ahmeddkhalill/SurveyManagement">Survey Management System</a></h3>
-      <p>REST API with background jobs, automated mailing, hybrid caching & rate limiting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hangfire-4A90D9?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MailKit-CC2929?style=flat-square&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🏥 <a href="https://github.com/Ahmeddkhalill/Vezeeta">Vezeeta Medical Platform</a></h3>
-      <p>Healthcare system with CQRS, JWT/RBAC, localization & scalable scheduling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/CQRS-6D28D9?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Identity-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Serilog-CC2929?style=flat-square&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>👻 <a href="https://haunted-escape.com/">Haunted Escape Room ERP</a></h3>
-      <p>ERP backend using Broker Pattern for multi-branch sales & modular data handling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>💪 <a href="https://www.nuget.org/packages/FitnessTracker">Fitness Tracker Library</a></h3>
-      <p>Published NuGet package for health & fitness calculations — <b>470+ downloads</b>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎮 <a href="https://github.com/Ahmeddkhalill/GameZone">Game Management Portal</a></h3>
-      <p>Full-stack ASP.NET MVC app with CRUD operations & responsive Bootstrap UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ahmeddkhalill&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddkhalill&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmeddkhalill&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| 🏥 [Vezeeta Medical Platform](https://github.com/Ahmeddkhalill/Vezeeta) | Medical booking API with CQRS, JWT/RBAC, localization and observability | CQRS · MediatR · Identity · Serilog · Seq |
+| 📋 [Survey Management System](https://github.com/Ahmeddkhalill/SurveyManagement) | REST API with background jobs, automated mailing, hybrid caching and rate limiting | ASP.NET Core · Hangfire · MailKit |
+| 🩺 [MedAI Healthcare Platform](https://github.com/Ahmeddkhalill/MedAI) | Graduation project (team of 6): PyTorch classification pipeline integrated into an ASP.NET Core API | ASP.NET Core · Python · PyTorch |
+| 👻 [Haunted Escape Room ERP](https://haunted-escape.com/) | Multi-branch sales-tracking ERP backend using the Broker Pattern, live in production | ASP.NET Core · Dapper · SQLite |
+| 💪 [FitnessTracker (NuGet)](https://www.nuget.org/packages/FitnessTracker) | Zero-dependency, unit-tested health and fitness calculation library, 470+ downloads | C# · NuGet |
 
 ---
 
 ## 📜 Certificates
 
-- 🏅 ALX Explore — AI Data Science
-- 🏅 C# Fundamentals — Microsoft / FreeCodeCamp
-- 🏅 Problem Solving Training — Coach Academy
+- 🏅 ALX Africa: Data Science Program
+- 🏅 C# Fundamentals: Microsoft / freeCodeCamp
+- 🏅 Problem Solving Training: Coach Academy
 
 ---
 
-<p align="center">
-  <i>"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."</i><br>
-  — Robert C. Martin
-</p>
+## 📫 Contact
+
+Email: ahmedmkhalil.work@gmail.com · [LinkedIn](https://www.linkedin.com/in/ahmed-khalil-619176256/)
